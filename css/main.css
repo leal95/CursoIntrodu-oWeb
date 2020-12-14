@@ -1,0 +1,68 @@
+html, body
+{
+    font-family: 'Roboto', sans-serif;
+    background: url("../img/Fundo.jpg") no-repeat 0 0;
+}
+
+.logoCS
+{
+    width: 60px;
+    height: 60px;
+    background: url("../img/LogoCS.PNG") no-repeat 0 0;
+    display: block;
+}
+
+.logo
+{
+    float: left; 
+}
+
+.menu
+{
+    float: right;
+}
+
+.itens
+{
+    float: left;
+    margin: 20px 10px;
+}
+
+.link
+{
+    color: black;
+    text-decoration: none;
+}
+
+.clear
+{
+    clear: both;
+}
+
+.center
+{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.titulo_home
+{
+    font-size: 44px;
+    margin: 60px 0 30px 0;
+}
+
+.titulo_home strong
+{
+    font-weight: 600;
+}
+
+.corpo_home
+{
+    font-size: 18px;
+    margin: 40px 0 30px 0;
+}
+
+.imagem_ling
+{
+    margin-left: 200px;
+}
